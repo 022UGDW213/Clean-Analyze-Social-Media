@@ -1,5 +1,5 @@
 
-# {Installing Jupyter}
+# Installing Jupyter 
 
 Get up and running on your computer
 
@@ -30,3 +30,7 @@ pip install notebook
 # To run the notebook
 
 jupyter notebook
+
+
+# WebSite
+ {https://jupyter.org/install}
