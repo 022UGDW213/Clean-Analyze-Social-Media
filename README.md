@@ -1,4 +1,4 @@
-# Installing Jupyter 
+# Installing Jupyter in Ubuntu Linux Distro
 
 ## Get up and running on your computer
 
